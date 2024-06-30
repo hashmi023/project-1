@@ -1,0 +1,125 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+}
+
+.container {
+    width: 93%;
+    margin: auto;
+}
+
+.All-header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aliceblue;
+}
+.navbar{
+    display: flex;
+    gap: 20px;
+}
+h1{
+color: blue;
+}
+ul li{
+    color: black;
+    list-style: none;
+
+}
+.num{
+    color: white;
+    background-color: blue;
+    padding: 15px;
+}
+.slider-1{
+    display: flex;
+    justify-content: space-around;
+}
+.p-1{
+    font-size: 60px;
+}
+.rm-btn{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin-left: 50px; 
+}
+.img-1{
+    height: 130%;
+    margin-right: 150px;
+}
+.content{
+    background-color: aliceblue;
+    
+    
+    margin-top: 100px; 
+
+}
+.p-2{
+    
+    font-size: 30px;
+    display: flex; 
+    justify-content: center; 
+}
+.h-3{
+    display: flex;
+    justify-content: center;
+}
+hr-1{
+    padding: 2px;
+    color: red;
+    margin: 10px;
+}
+.img-2{
+    display: flex;
+    justify-content: center;
+}
+.services{
+    position: relative;
+    background-color: blue;
+    padding: 50px;
+    height: 100px;
+    width: 400px;
+    margin-top: 50px;
+    border-radius: 10px;
+
+}
+input{
+    height: 30px;
+    width: 200px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    background-color: aliceblue;
+    margin-top: 50px;
+    gap: 20px;
+}
+.fli{
+    color: black;
+    
+}
+
+input[type="text"] {
+    border: 0px;
+    outline: 0px;
+    border-radius: 5px;
+}
+.inp-btn{
+    position: relative;
+}
+.s-btn{
+    background-color: blue;
+    color: white;
+    height: 32px;
+    border-radius: 10px;
+    position: absolute;
+    left: 255px;
+}
+hr{
+    width: 100px;
+}
